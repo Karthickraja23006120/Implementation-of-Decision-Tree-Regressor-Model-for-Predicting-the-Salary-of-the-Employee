@@ -8,16 +8,16 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1.Import libraries: Import required packages like pandas, sklearn, and matplotlib.
-2.Prepare the dataset: Load or create the dataset with features and target variables.
-3.Preprocess the data: Split the dataset into features (X) and target (y).
-4.Train-Test Split: Split the data into training and testing sets.
-5.Train the model: Create and train a DecisionTreeRegressor model.
-6.Make predictions: Use the trained model to predict salary values for the test set.
-7.Evaluate the model: Evaluate the model using metrics like MSE and R-squared.
-8.Visualization: Optionally visualize the predictions and actual data to see how well the model fits.
-9.Hyperparameter tuning: Adjust hyperparameters like max_depth to improve the model.
-10.Save and load the model: Optionally save the model for future use.
+1. Import libraries: Import required packages like pandas, sklearn, and matplotlib.
+2. Prepare the dataset: Load or create the dataset with features and target variables.
+3. Preprocess the data: Split the dataset into features (X) and target (y).
+4. Train-Test Split: Split the data into training and testing sets.
+5. Train the model: Create and train a DecisionTreeRegressor model.
+6. Make predictions: Use the trained model to predict salary values for the test set.
+7. Evaluate the model: Evaluate the model using metrics like MSE and R-squared.
+8. Visualization: Optionally visualize the predictions and actual data to see how well the model fits.
+9. Hyperparameter tuning: Adjust hyperparameters like max_depth to improve the model.
+10. Save and load the model: Optionally save the model for future use.
 
 
 ## Program:
